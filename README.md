@@ -3,6 +3,3 @@
 📅 Stacking up on university courses with the intent of graduating a year early (2025)<br>
 🏆 Working through the Google IT Support Certificate<br>
 🧠 Learning a lot!</h2>
-
-> [!WARNING]
-> <h3>This area is currently still under construction. 🚧</h3>
