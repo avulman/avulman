@@ -1,8 +1,8 @@
 # Hi, my name is Anton! 👋
 ### I'm Currently:
-#### 📅 Stacking up on university courses with the intent of graduating a year early (2025)
-#### 🏆 Working through the Google IT Support Professional Certificate
-#### 🧠 Learning a lot!
+### 📅 Stacking up on university courses with the intent of graduating a year early (2025)
+### 🏆 Working through the Google IT Support Professional Certificate
+### 🧠 Learning a lot!
 
 ## Objective
 
