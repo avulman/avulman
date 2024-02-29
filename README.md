@@ -7,7 +7,7 @@
 
 ## Objective
 
-### My journey in computer science has led me to develop a passion for cybersecurity, and I'm now eager to transition into this field, specifically aiming to join an entry-level/internship position to apply my theoretical knowledge and get hands-on experience.
+### My journey in computer science has led me to develop a passion for cybersecurity, and I'm now eager to transition into this field, specifically aiming to join an entry-level/internship position to apply my theoretical knowledge and gain invaluable hands-on experience.
 
 ## Certifications
 ### Google IT Support Professional Certificate *(in progress)*
