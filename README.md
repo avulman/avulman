@@ -11,4 +11,3 @@
 
 ## Certifications
 ### Google IT Support Professional Certificate *(in progress)*
-### Google Cybersecurity Professional Certificate *(on deck)*
