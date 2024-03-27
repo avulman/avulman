@@ -2,7 +2,7 @@
 ### I'm Currently:
 ### 📅 Stacking up on university courses with the intent of graduating a year early (2025)
 ### 💼 Applying for internship/entry-level opportunities
-### 🏆 Working through the Google IT Support Professional Certificate
+### 🏆 Working through the Google Cybersecurity Professional Certificate
 ### 🧠 Learning a lot!
 
 ## Objective
