@@ -3,6 +3,7 @@
 ### 📅 Stacking up on university courses with the intent of graduating a year early (2025)
 ### 💼 Applying for internship/entry-level opportunities
 ### 🏆 Working through the Google Cybersecurity Professional Certificate
+### 💻 Completing hands on labs to gain practical experience
 ### 🧠 Learning a lot!
 
 ## Objective
