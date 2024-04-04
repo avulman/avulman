@@ -17,4 +17,4 @@
 
 ## Certifications
 ### Google IT Support Professional Certificate
-### Google Cybersecurity Professional Certificate *(Exp: 4/24)*
+### Security+ *(Exp: May)*
