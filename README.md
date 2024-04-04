@@ -17,4 +17,4 @@
 
 ## Certifications
 ### Google IT Support Professional Certificate
-### Security+ *(Exp: May)*
+### CompTIA Security+ *(Exp: May)*
