@@ -13,7 +13,7 @@
 ## Projects
 | Link | Description |
 |---------|------|
-| <a href="https://github.com/avulman/active-directory-project">Active Directory <br>Lab| Hands-on experience with the setup of four VMs, configuring their OS and Networks, Security measures with Splunk Server for log analysis, and Sysmon for endpoint monitoring. Crowbar for brute force attacks and analyzing with Splunk. Atomic Red Team (ART) and MITRE ATT&CK for testing.
+| <a href="https://github.com/avulman/active-directory-project">Active Directory Splunk Lab| Hands-on experience with the setup of four VMs, configuring their OS and Networks, Security measures with Splunk Server for log analysis, and Sysmon for endpoint monitoring. Crowbar for simulating brute force attacks on Windows Server active directory users, and analyzing the attack with Splunk. Atomic Red Team (ART) and MITRE ATT&CK for testing.
 
 ## Certifications
 ### CompTIA Security+ *(Exp: May)*
