@@ -6,10 +6,6 @@
 ### 💻 Completing hands-on labs to gain practical experience.
 ### 🧠 Learning a lot!
 
-## Objective
-
-### My journey in computer science has led me to develop a passion for cybersecurity, and I am eager to transition into this field. I am excited to apply my theoretical knowledge and gain invaluable hands-on experience. 
-
 ## Projects
 | Link | Description |
 |---------|------|
