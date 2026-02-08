@@ -1,10 +1,4 @@
 # Hi, my name is Anton! 👋
-### I am Currently:
-### 📅 Stacking up on university courses with the intent of graduating a year early (2025).
-### 💼 Working as an IT Security Analyst.
-### 🏆 Working through the Network+ Certification.
-### 💻 Completing hands-on labs to gain practical experience.
-### 🧠 Learning a lot!
 
 ## Projects
 | Link | Description |
