@@ -8,6 +8,4 @@
 ## Certifications
 ### HackTheBox Certified Defensive Security Analyst (CDSA)
 ### CompTIA Security+
-### Google Cybersecurity Certificate
-### Google IT Support Professional Certificate
 
